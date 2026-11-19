@@ -1,0 +1,14 @@
+# Telegram Bot Framework
+aiogram>=3.17.0
+
+# Google Gemini AI SDK
+google-generativeai>=0.8.4
+
+# Settings and Validation
+pydantic>=2.10.0
+pydantic-settings>=2.7.0
+python-dotenv>=1.0.1
+
+# HTTP and Image utilities
+aiohttp>=3.10.0
+Pillow>=10.4.0
